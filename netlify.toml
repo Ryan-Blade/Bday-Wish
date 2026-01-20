@@ -3,6 +3,11 @@
   publish = "./dist/"
   command = "npm run build"
 
+[build.environment]
+  NAME = "Atrie"
+  PIC = "atrie.jpg"
+  SCROLL_MSG = "message.txt"
+
 [template.environment]
   NAME = "enter Name of the receiver"
   PIC = "enter web url of the receiver's image"
