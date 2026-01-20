@@ -1,0 +1,31 @@
+
+> happy-birthday-card@3.0.2 build
+> npm-run-all init-index-remote build:parcel
+
+
+> happy-birthday-card@3.0.2 init-index-remote
+> node builder/init.js --remote
+
+IMAGE Downloaded successfully!!!
+Index Generated
+
+> happy-birthday-card@3.0.2 build:parcel
+> parcel build src/index.html
+
+Building...
+🚨 Build failed.
+
+@parcel/package-manager:
+ Could not find module
+ 
+"@parcel/transformer-sass"
+ satisfying 2.16.3.
+
+
+  C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\package.json:34:5
+    33 |     "@parcel/
+  > 34 |     "@parcel/
+  >    |     ^^^^^^^^^ Found this conflicting local requirement.
+    35 |     "@parcel/
+    36 |     "parcel":
+ERROR: "build:parcel" exited with 1.

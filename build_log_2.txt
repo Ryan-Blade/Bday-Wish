@@ -1,0 +1,11 @@
+×  C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\src\resources\sfx\hbd.mp3: Invalid Version: undefined
+    at new SemVer (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\@babel\preset-env\node_modules\semver\semver.js:354:11)
+    at compare (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\@babel\preset-env\node_modules\semver\semver.js:687:10)
+    at SemVer.lt (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\@babel\preset-env\node_modules\semver\semver.js:728:10)
+    at C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\@babel\preset-env\lib\index.js:214:15
+    at Object.default (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\@babel\helper-plugin-utils\lib\index.js:30:12)
+    at getEnvPlugins (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\parcel\src\transforms\babel\env.js:62:34)
+    at getEnvConfig (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\parcel\src\transforms\babel\env.js:12:25)
+    at async getBabelConfig (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\parcel\src\transforms\babel\config.js:32:19)
+    at async babelTransform (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\parcel\src\transforms\babel\transform.js:6:16)
+    at async JSAsset.pretransform (C:\Users\sulph\OneDrive\Documents\Bd WIsh\Happy-Birthday-Card\node_modules\parcel\src\assets\JSAsset.js:83:5)
